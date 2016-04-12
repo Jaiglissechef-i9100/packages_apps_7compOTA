@@ -14,16 +14,16 @@
  * limitations under the License.
  */
 
-package com.fusionjack.slimota;
+package com.emotion.ota;
 
 import android.app.Fragment;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 import android.view.MenuItem;
 
-import com.fusionjack.slimota.configs.LinkConfig;
-import com.fusionjack.slimota.dialogs.WaitDialogFragment;
-import com.fusionjack.slimota.fragments.SlimOTAFragment;
+import com.emotion.ota.configs.LinkConfig;
+import com.emotion.ota.dialogs.WaitDialogFragment;
+import com.emotion.ota.fragments.SlimOTAFragment;
 
 public class MainActivity extends PreferenceActivity implements
         WaitDialogFragment.OTADialogListener, LinkConfig.LinkConfigListener {
