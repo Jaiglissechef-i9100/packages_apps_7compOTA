@@ -7,9 +7,9 @@
 # * Multiple devices can be added in the xml file
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically 
 #
-ota_url=https://www.dropbox.com/s/u2k60hvjn2c02h0/ota_lollipop.xml?dl=1
+ota_url=https://raw.githubusercontent.com/Emotroid-Rom/OTA/mm/trltexx.xml
 release_type=Stable
-device_name=ro.product.device
+device_name=ro.emotion.device
 
 #
 # VERSION
@@ -18,7 +18,7 @@ device_name=ro.product.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.modversion' : Parse the date 20150426 from 'SlimSaber-bacon-5.0.2-20150426'
+# Example with a property key 'ro.modversion' : Parse the date 20160412 from 'Emotion-trltexx-MM.r4.Official-20160412-162016'
 #
 # Version source: ro.modversion
 # Version delimiter: -
@@ -32,7 +32,7 @@ device_name=ro.product.device
 # Version position: 3 (zero based)
 # Version format:
 #
-version_source=ro.modversion
+version_source=emotion.ota.version
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
