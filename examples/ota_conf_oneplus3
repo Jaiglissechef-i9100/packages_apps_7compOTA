@@ -9,7 +9,7 @@
 #
 # * FOR OP3 DEV's ==> rename to ota_config and you need to copy ota_conf in the android root folder
 #
-ota_url=https://raw.githubusercontent.com/Emotroid-Rom/OTA/mm/oneplus3.xml
+ota_url=https://raw.githubusercontent.com/Emotroid-Rom/OTA/nougat/oneplus3.xml
 release_type=Stable
 device_name=ro.emotion.device
 
