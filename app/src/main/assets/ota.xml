@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <oneplus3>
+            <Filename>Emotion-7.1.1-20170104-OFFICIAL-oneplus3.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download EmotionOS builds">https://de1.androidfilehost.com/dl/SiVdW_ru0yi6O-6QacP3ZQ/1476192677/312978532265362758/Emotion-oneplus3-MM.r23.Official-20161008-214328.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </oneplus3>
+
+        <shamu>
+            <Filename>Emotion-7.1.1-20170102-OFFICIAL-shamu.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download EmotionOS builds">https://de1.androidfilehost.com/dl/WGa-vg0GA9DL-rSMZXdqFQ/1483705929/529152257862692458/Emotion-7.1.1-20170102-OFFICIAL-shamu.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </shamu>
+
+        <trltevzw>
+            <Filename>Emotion-7.1.1-20170104-OFFICIAL-trltevzw.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download EmotionOS builds">http://qc4.androidfilehost.com/dl/WobBlqRPV0GNqJsa9j_H4A/1483731105/457095661767127138/Emotion-7.1.1-20170104-OFFICIAL-trltevzw.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </trltevzw>
+
+        <trltexx>
+            <Filename>Emotion-7.1.1-20170103-OFFICIAL-trltexx.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download EmotionOS builds">https://de1.androidfilehost.com/dl/NvxTg5aLuHnV99O_QuC_-w/1483888721/529152257862692710/Emotion-7.1.1-20170103-OFFICIAL-trltexx.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </trltexx>
+    </Stable>
+</SlimOTA>
