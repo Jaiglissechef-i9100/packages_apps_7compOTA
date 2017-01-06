@@ -2,67 +2,147 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>Emotion-7.1.1-20170104-OFFICIAL-oneplus3.zip</Filename>
+            <Filename>Emotion-7.1.1-20170107-OFFICIAL-oneplus3.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download EmotionOS builds">https://de1.androidfilehost.com/dl/SiVdW_ru0yi6O-6QacP3ZQ/1476192677/312978532265362758/Emotion-oneplus3-MM.r23.Official-20161008-214328.zip</RomUrl>
+                title="EmotionOS"
+                description="Download ROM ZIP">http://qc4.androidfilehost.com/dl/fZG-B_tHORqkCwKzkJw6Ag/1483896702/673368273298921471/Emotion-7.1.1-20170107-OFFICIAL-oneplus3.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+                description="View the changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
             <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                id="opengapps"
+                title="Open GApps"
+                description="Download GApps package">http://opengapps.org</OpenGappsUrl>
+            <GithubUrl
+                id="github"
+                title="Source Code"
+                description="Expolre the source code">https://github.com/EmotionOS</GithubUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit XDA thread">https://forum.xda-developers.com/oneplus-3/development/rom-emotionos-t3530745</XDAUrl>
+            <GooglePlusUrl
+                id="googleplus"
+                title="Google+ Community"
+                description="Join EmotionOS community">https://goo.gl/1ByphU</GooglePlusUrl>
+            <ContactUrl
+                id="contact"
+                title="Contact Us"
+                description="Send an email to developers">mailto:emotionaosp@gmail.com</ContactUrl>
+            <DonateUrl
+                id="donate"
+                title="Paypal Donation"
+                description="Support the development">https://goo.gl/9ftOB5</DonateUrl>
         </oneplus3>
 
         <shamu>
             <Filename>Emotion-7.1.1-20170102-OFFICIAL-shamu.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
-                description="Download EmotionOS builds">https://de1.androidfilehost.com/dl/WGa-vg0GA9DL-rSMZXdqFQ/1483705929/529152257862692458/Emotion-7.1.1-20170102-OFFICIAL-shamu.zip</RomUrl>
+                title="EmotionOS"
+                description="Download ROM ZIP">https://de1.androidfilehost.com/dl/WGa-vg0GA9DL-rSMZXdqFQ/1483705929/529152257862692458/Emotion-7.1.1-20170102-OFFICIAL-shamu.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+                description="View the changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
             <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                id="opengapps"
+                title="Open GApps"
+                description="Download GApps package">http://opengapps.org</OpenGappsUrl>
+            <GithubUrl
+                id="github"
+                title="Source Code"
+                description="Expolre the source code">https://github.com/EmotionOS</GithubUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit XDA thread">https://forum.xda-developers.com/nexus-6/development/rom-emotionos-t3530768</XDAUrl>
+            <GooglePlusUrl
+                id="googleplus"
+                title="Google+ Community"
+                description="Join EmotionOS community">https://goo.gl/1ByphU</GooglePlusUrl>
+            <ContactUrl
+                id="contact"
+                title="Contact Us"
+                description="Send an email to developers">mailto:emotionaosp@gmail.com</ContactUrl>
+            <DonateUrl
+                id="donate"
+                title="Paypal Donation"
+                description="Support the development">https://goo.gl/9ftOB5</DonateUrl>
         </shamu>
 
         <trltevzw>
-            <Filename>Emotion-7.1.1-20170104-OFFICIAL-trltevzw.zip</Filename>
+            <Filename>Emotion-7.1.1-20170108-OFFICIAL-trltevzw.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
-                description="Download EmotionOS builds">http://qc4.androidfilehost.com/dl/WobBlqRPV0GNqJsa9j_H4A/1483731105/457095661767127138/Emotion-7.1.1-20170104-OFFICIAL-trltevzw.zip</RomUrl>
+                title="EmotionOS"
+                description="Download ROM ZIP">http://qc4.androidfilehost.com/dl/tugG-u4dvwEYrugiH9k-cQ/1484125134/385035244224411142/Emotion-7.1.1-20170108-OFFICIAL-trltevzw.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+                description="View the changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
             <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                id="opengapps"
+                title="Open GApps"
+                description="Download GApps package">http://opengapps.org</OpenGappsUrl>
+            <GithubUrl
+                id="github"
+                title="Source Code"
+                description="Expolre the source code">https://github.com/EmotionOS</GithubUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit XDA thread">https://forum.xda-developers.com/note-4-verizon/development/emotionos-t3528639</XDAUrl>
+            <GooglePlusUrl
+                id="googleplus"
+                title="Google+ Community"
+                description="Join EmotionOS community">https://goo.gl/1ByphU</GooglePlusUrl>
+            <ContactUrl
+                id="contact"
+                title="Contact Us"
+                description="Send an email to developers">mailto:emotionaosp@gmail.com</ContactUrl>
+            <DonateUrl
+                id="donate"
+                title="Paypal Donation"
+                description="Support the development">https://goo.gl/9ftOB5</DonateUrl>
         </trltevzw>
 
         <trltexx>
             <Filename>Emotion-7.1.1-20170103-OFFICIAL-trltexx.zip</Filename>
             <RomUrl
                 id="rom"
-                title="ROM"
-                description="Download EmotionOS builds">https://de1.androidfilehost.com/dl/NvxTg5aLuHnV99O_QuC_-w/1483888721/529152257862692710/Emotion-7.1.1-20170103-OFFICIAL-trltexx.zip</RomUrl>
+                title="EmotionOS"
+                description="Download ROM ZIP">https://de1.androidfilehost.com/dl/NvxTg5aLuHnV99O_QuC_-w/1483888721/529152257862692710/Emotion-7.1.1-20170103-OFFICIAL-trltexx.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
+                description="View the changelog">https://github.com/EmotionOS/Changelogs/blob/nougat/Changelog.mkdn</ChangelogUrl>
             <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                id="opengapps"
+                title="Open GApps"
+                description="Download GApps package">http://opengapps.org</OpenGappsUrl>
+            <GithubUrl
+                id="github"
+                title="Source Code"
+                description="Expolre the source code">https://github.com/EmotionOS</GithubUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit XDA thread">https://forum.xda-developers.com/note-4/snapdragon-dev/rom-emotionos-t3530129</XDAUrl>
+            <GooglePlusUrl
+                id="googleplus"
+                title="Google+ Community"
+                description="Join EmotionOS community">https://goo.gl/1ByphU</GooglePlusUrl>
+            <ContactUrl
+                id="contact"
+                title="Contact Us"
+                description="Send an email to developers">mailto:emotionaosp@gmail.com</ContactUrl>
+            <DonateUrl
+                id="donate"
+                title="Paypal Donation"
+                description="Support the development">https://goo.gl/9ftOB5</DonateUrl>
         </trltexx>
     </Stable>
 </SlimOTA>
