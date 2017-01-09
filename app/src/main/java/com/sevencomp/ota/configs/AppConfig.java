@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.configs;
+package com.sevencomp.ota.configs;
 
 import android.app.AlarmManager;
 import android.content.Context;
@@ -22,9 +22,9 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
 import com.commonsware.cwac.wakeful.WakefulIntentService;
-import com.emotion.ota.R;
-import com.emotion.ota.scheduler.OTAListener;
-import com.emotion.ota.utils.OTAUtils;
+import com.sevencomp.ota.R;
+import com.sevencomp.ota.scheduler.OTAListener;
+import com.sevencomp.ota.utils.OTAUtils;
 
 import java.text.DateFormat;
 import java.util.Date;

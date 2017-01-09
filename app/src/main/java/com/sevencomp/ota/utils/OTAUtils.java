@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.utils;
+package com.sevencomp.ota.utils;
 
 import android.content.Context;
 import android.content.Intent;
@@ -22,7 +22,7 @@ import android.net.Uri;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.emotion.ota.configs.OTAConfig;
+import com.sevencomp.ota.configs.OTAConfig;
 
 import java.io.BufferedReader;
 import java.io.File;

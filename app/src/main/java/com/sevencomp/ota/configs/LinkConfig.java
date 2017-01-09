@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.configs;
+package com.sevencomp.ota.configs;
 
 import android.content.Context;
 
-import com.emotion.ota.xml.OTALink;
-import com.emotion.ota.xml.OTAParser;
-import com.emotion.ota.utils.OTAUtils;
+import com.sevencomp.ota.xml.OTALink;
+import com.sevencomp.ota.xml.OTAParser;
+import com.sevencomp.ota.utils.OTAUtils;
 
 import org.json.JSONArray;
 import org.json.JSONException;

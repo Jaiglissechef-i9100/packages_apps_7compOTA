@@ -1,1 +1,1 @@
--keep class com.emotion.ota.core.OTAListener
+-keep class com.sevencomp.ota.core.OTAListener

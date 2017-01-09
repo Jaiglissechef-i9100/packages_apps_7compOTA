@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.dialogs;
+package com.sevencomp.ota.dialogs;
 
 import android.app.Activity;
 import android.app.Fragment;

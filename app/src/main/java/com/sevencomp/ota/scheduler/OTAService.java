@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.scheduler;
+package com.sevencomp.ota.scheduler;
 
 import android.content.Intent;
 import android.os.AsyncTask;
 
 import com.commonsware.cwac.wakeful.WakefulIntentService;
-import com.emotion.ota.tasks.CheckUpdateTask;
+import com.sevencomp.ota.tasks.CheckUpdateTask;
 
 public class OTAService extends WakefulIntentService {
 

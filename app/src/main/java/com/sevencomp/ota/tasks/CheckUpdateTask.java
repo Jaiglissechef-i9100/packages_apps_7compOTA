@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.tasks;
+package com.sevencomp.ota.tasks;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -28,16 +28,16 @@ import android.os.AsyncTask;
 import android.os.Handler;
 import android.os.Message;
 
-import com.emotion.ota.MainActivity;
-import com.emotion.ota.R;
-import com.emotion.ota.configs.AppConfig;
-import com.emotion.ota.configs.LinkConfig;
-import com.emotion.ota.configs.OTAConfig;
-import com.emotion.ota.configs.OTAVersion;
-import com.emotion.ota.dialogs.WaitDialogHandler;
-import com.emotion.ota.utils.OTAUtils;
-import com.emotion.ota.xml.OTADevice;
-import com.emotion.ota.xml.OTAParser;
+import com.sevencomp.ota.MainActivity;
+import com.sevencomp.ota.R;
+import com.sevencomp.ota.configs.AppConfig;
+import com.sevencomp.ota.configs.LinkConfig;
+import com.sevencomp.ota.configs.OTAConfig;
+import com.sevencomp.ota.configs.OTAVersion;
+import com.sevencomp.ota.dialogs.WaitDialogHandler;
+import com.sevencomp.ota.utils.OTAUtils;
+import com.sevencomp.ota.xml.OTADevice;
+import com.sevencomp.ota.xml.OTAParser;
 
 import org.xmlpull.v1.XmlPullParserException;
 

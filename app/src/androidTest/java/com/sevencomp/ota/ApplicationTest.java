@@ -1,4 +1,4 @@
-package com.emotion.ota;
+package com.sevencomp.ota;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

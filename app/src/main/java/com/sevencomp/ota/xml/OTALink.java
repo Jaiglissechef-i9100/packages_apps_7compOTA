@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.xml;
+package com.sevencomp.ota.xml;
 
 public class OTALink {
 

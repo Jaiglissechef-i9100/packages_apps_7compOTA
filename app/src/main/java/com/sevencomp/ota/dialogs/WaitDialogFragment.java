@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.dialogs;
+package com.sevencomp.ota.dialogs;
 
 import android.app.Dialog;
 import android.app.DialogFragment;
@@ -22,7 +22,7 @@ import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.os.Bundle;
 
-import com.emotion.ota.R;
+import com.sevencomp.ota.R;
 
 public class WaitDialogFragment extends DialogFragment {
 

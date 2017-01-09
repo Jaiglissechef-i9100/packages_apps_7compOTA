@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.fragments;
+package com.sevencomp.ota.fragments;
 
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
@@ -25,14 +25,14 @@ import android.preference.PreferenceCategory;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceScreen;
 
-import com.emotion.ota.R;
-import com.emotion.ota.configs.AppConfig;
-import com.emotion.ota.configs.LinkConfig;
-import com.emotion.ota.configs.OTAVersion;
-import com.emotion.ota.dialogs.WaitDialogFragment;
-import com.emotion.ota.tasks.CheckUpdateTask;
-import com.emotion.ota.utils.OTAUtils;
-import com.emotion.ota.xml.OTALink;
+import com.sevencomp.ota.R;
+import com.sevencomp.ota.configs.AppConfig;
+import com.sevencomp.ota.configs.LinkConfig;
+import com.sevencomp.ota.configs.OTAVersion;
+import com.sevencomp.ota.dialogs.WaitDialogFragment;
+import com.sevencomp.ota.tasks.CheckUpdateTask;
+import com.sevencomp.ota.utils.OTAUtils;
+import com.sevencomp.ota.xml.OTALink;
 
 import java.util.List;
 

@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package com.emotion.ota.configs;
+package com.sevencomp.ota.configs;
 
 import android.content.Context;
 
-import com.emotion.ota.utils.OTAUtils;
+import com.sevencomp.ota.utils.OTAUtils;
 
 import java.io.IOException;
 import java.io.InputStream;

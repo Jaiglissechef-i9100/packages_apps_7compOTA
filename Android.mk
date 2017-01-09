@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 LOCAL_PRIVILEGED_MODULE := true
-LOCAL_PACKAGE_NAME := EmotionOTA
+LOCAL_PACKAGE_NAME := 7compOTA
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
 LOCAL_SRC_FILES := $(call all-java-files-under, app/src/main)
